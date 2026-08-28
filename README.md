@@ -1,3 +1,4 @@
+<img width="720" height="1600" alt="SD" src="https://github.com/user-attachments/assets/02cc0472-e861-43ac-b3c1-b1ee842fcb6c" />
 # QR-Based Attendance Management System
 
 ## Project Overview
@@ -161,15 +162,18 @@ Planned improvements include:
 
 ### Student Dashboard
 
-(Add Screenshot)
+<img width="320" height="700" alt="login" src="https://github.com/user-attachments/assets/6eeeb2f4-8d53-43af-9ee6-aa9cde5bc4d7" />
+
 
 ### Faculty Dashboard
 
-(Add Screenshot)
+<img width="320" height="700" alt="FD" src="https://github.com/user-attachments/assets/419e397f-740d-4aa2-a10c-b5e141a9771f" />
+
 
 ### QR Code Generation
 
-(Add Screenshot)
+<img width="320" height="700" alt="WhatsApp Image 2026-08-29 at 12 19 22 AM" src="https://github.com/user-attachments/assets/4a70d977-b896-49b4-8e7c-efcf2cde3b16" />
+
 
 ### QR Code Scanning
 
