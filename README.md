@@ -1,4 +1,3 @@
-<img width="720" height="1600" alt="SD" src="https://github.com/user-attachments/assets/02cc0472-e861-43ac-b3c1-b1ee842fcb6c" />
 # QR-Based Attendance Management System
 
 ## Project Overview
