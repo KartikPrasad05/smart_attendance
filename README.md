@@ -155,8 +155,8 @@ Planned improvements include:
 
 ### Login Page
 
-<img width="320" height="800" alt="home" src="https://github.com/user-attachments/assets/d700a72d-a6aa-42f1-907b-fe08e2205c7b" />
-<img width="320" height="800" alt="login" src="https://github.com/user-attachments/assets/802568f2-d872-4dfb-b423-c0fffe4fce69" />
+<img width="320" height="700" alt="home" src="https://github.com/user-attachments/assets/d700a72d-a6aa-42f1-907b-fe08e2205c7b" />
+<img width="320" height="700" alt="login" src="https://github.com/user-attachments/assets/802568f2-d872-4dfb-b423-c0fffe4fce69" />
 
 
 ### Student Dashboard
