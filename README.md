@@ -155,7 +155,9 @@ Planned improvements include:
 
 ### Login Page
 
-(Add Screenshot)
+<img width="720" height="1600" alt="home" src="https://github.com/user-attachments/assets/d700a72d-a6aa-42f1-907b-fe08e2205c7b" />
+<img width="720" height="1600" alt="login" src="https://github.com/user-attachments/assets/802568f2-d872-4dfb-b423-c0fffe4fce69" />
+
 
 ### Student Dashboard
 
